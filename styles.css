@@ -4,17 +4,20 @@
 .third{
 	background-color:green;
 	width:80px;
-	height:80px
+	height:80px;
+	font-size:40px;
 }
 .one{
 	background-color:red;
 	width:80px;
-	height:80px
+	height:80px;
+	font-size:40px;
 }
 .two{
 	background-color:blue;
 	width:80px;
-	height:80px
+	height:80px;
+	font-size:40px;
 }
 .flex{
 	display:flex;
