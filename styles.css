@@ -1,2 +1,23 @@
-
-/* Your CSS Code here. */
+*{
+	margin:0;
+}
+.third{
+	background-color:green;
+	width:100px;
+	height:100px
+}
+.one{
+	background-color:red;
+	width:100px;
+	height:100px
+}
+.two{
+	background-color:blue;
+	width:100px;
+	height:100px
+}
+.flex{
+	display:flex;
+	justify-content:center;
+	flex-wrap:wrap;
+}
