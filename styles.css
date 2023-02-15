@@ -1,24 +1,24 @@
-
-.three{
-	background-color:green;
-	width:80px;
-	height:80px;
-	font-size:40px;
+/* Your CSS Code here. */
+.holder{
+	display:flex;
+	flex-wrap:wrap;
+	justify-content:center;
 }
-.one{
-	background-color:red;
-	width:80px;
+.three{
 	height:80px;
+	width:80px;
+	background-color:green;
 	font-size:40px;
 }
 .two{
-	background-color:blue;
-	width:80px;
 	height:80px;
+	width:80px;
+	background-color:blue;
 	font-size:40px;
 }
-.flex{
-	display:flex;
-	justify-content:center;
-	flex-wrap:wrap;
+.one{
+	height:80px;
+	width:80px;
+	background-color:red;
+	font-size:40px;
 }
